@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "99525641125",
+    "firebase_url": "https://cipnote-b890c.firebaseio.com",
+    "project_id": "cipnote-b890c",
+    "storage_bucket": "cipnote-b890c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99525641125:android:e8697774ca97b9ba",
+        "android_client_info": {
+          "package_name": "com.cipnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99525641125-9atmaksthu2hshcbm4ls6eblpacvickc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cipnote",
+            "certificate_hash": "202bf7f882d2e72a517b040c68ff9e2af7520ab3"
+          }
+        },
+        {
+          "client_id": "99525641125-k6n2meegqamo64un7hv40e6p04rh3vtv.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "99525641125-k6n2meegqamo64un7hv40e6p04rh3vtv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp43GRttMOH_3jJi5q98im0zfaqFlba0I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99525641125-k6n2meegqamo64un7hv40e6p04rh3vtv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
